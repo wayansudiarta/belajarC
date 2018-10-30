@@ -2,7 +2,9 @@
 Situs ini menampung file-file yang berguna dalam belajar bahasa C.
 Khususnya untuk menunjang Buku "Pemrograman C untuk penyelesaian kasus"
 oleh I Wayan Sudiarta dan Raja F. Akmaludin.
+
 ![image buku C](https://github.com/wayansudiarta/belajarC/blob/master/buku-cs.jpg)
+
 bisa dibeli di Penerbit Periuk: https://penerbitperiuk.com/product/pemrograman-c-untuk-penyelesaian-kasus/
 
 ## Errata
