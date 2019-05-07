@@ -17,9 +17,9 @@ Walaupun Kami telah berusaha mengurangi kesalahan dengan berbagai cara, kesalaha
 5) Hal. 111, pada ilustrasi pointer pada gambar v menunjuk d, seharusnya v = &d
 6) Hal. 195- 
    ada kesalahan ketik pada semua makro IDX:
-   #define IDX(i1,i2,n1,n2) ((i1)*(n2)+(i2))
-   #define IDX(i1,i2,i3,n1,n2,n3) (((i1)*(n2)+(i2))*(n3) + (i3))
-   #define IDX(a1,a2,a3,a4,a5,a6,n1,n2,n3,n4,n5,n6) ((((((a1)*(n2)+(a2))*(n3)+(a3))*(n4)+(a4))*(n5)+(a5))*(n6)+(a6))
+   > #define IDX(i1,i2,n1,n2) ((i1)*(n2)+(i2))
+   > #define IDX(i1,i2,i3,n1,n2,n3) (((i1)*(n2)+(i2))*(n3) + (i3))
+   > #define IDX(a1,a2,a3,a4,a5,a6,n1,n2,n3,n4,n5,n6) ((((((a1)*(n2)+(a2))*(n3)+(a3))*(n4)+(a4))*(n5)+(a5))*(n6)+(a6))
    
 ## Instalasi MinGW
 Silahkan mengunjungi situs ini: https://github.com/wayansudiarta/minGW
