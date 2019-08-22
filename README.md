@@ -1,14 +1,15 @@
 # belajarC
-Situs ini menampung file-file yang berguna dalam belajar bahasa C.
-Khususnya untuk menunjang Buku "Pemrograman C untuk penyelesaian kasus"
+Situs ini menampung file-file yang berguna dalam belajar **Bahasa Pemrograman C**.
+Khususnya untuk menunjang buku yang berjudul "Pemrograman C untuk penyelesaian kasus"
 oleh I Wayan Sudiarta dan Raja F. Akmaludin.
 
 ![image buku C](https://github.com/wayansudiarta/belajarC/blob/master/buku-cs.jpg)
 
-bisa dibeli di Penerbit Periuk: https://penerbitperiuk.com/product/pemrograman-c-untuk-penyelesaian-kasus/
+Buku ini bisa dibeli di Penerbit Periuk: https://penerbitperiuk.com/product/pemrograman-c-untuk-penyelesaian-kasus/
+atau dibaca di google books: https://play.google.com/store/books/details?id=eeSpDwAAQBAJ
 
 ## Errata
-Walaupun Kami telah berusaha mengurangi kesalahan dengan berbagai cara, kesalahan cetak (errata) pada Buku C tersebut di atas masih ada. Kesalahan kesalahan cetak adalah sebagai berikut.
+Walaupun Kami telah berusaha mengurangi kesalahan dengan berbagai cara, kesalahan cetak (errata) pada Buku C tersebut di atas masih ada. Kesalahan-kesalahan cetak adalah sebagai berikut:
 
 1) Hal. 37, Tabel 5.3: pada operator kurangi satu, seharusnya a = a - 1
 2) Hal. 57, Soal 4. seharusnya s=(x+y+z)/3
