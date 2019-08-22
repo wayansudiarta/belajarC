@@ -8,6 +8,8 @@ oleh I Wayan Sudiarta dan Raja F. Akmaludin.
 Buku ini bisa dibeli di Penerbit Periuk: https://penerbitperiuk.com/product/pemrograman-c-untuk-penyelesaian-kasus/
 atau dibaca di google books: https://play.google.com/store/books/details?id=eeSpDwAAQBAJ
 
+Buku ini digunakan untuk Mata Kuliah Pemrograman Komputer di Program Studi Fisika, Fakultas MIPA, Universitas Mataram, http://unram.ac.id dan http://fisika.unram.ac.id
+
 ## Errata
 Walaupun Kami telah berusaha mengurangi kesalahan dengan berbagai cara, kesalahan cetak (errata) pada Buku C tersebut di atas masih ada. Kesalahan-kesalahan cetak adalah sebagai berikut:
 
