@@ -1,4 +1,4 @@
-![image](https://github.com/wayansudiarta/belajarC/assets/29176048/032d2595-e187-4fd0-bc38-b04ac73f6e2a)# belajarC
+# belajarC
 Situs ini menampung file-file yang berguna dalam belajar **Bahasa Pemrograman C**.
 Khususnya untuk menunjang buku yang berjudul "Pemrograman C untuk penyelesaian kasus"
 oleh I Wayan Sudiarta dan Raja F. Akmaludin.
