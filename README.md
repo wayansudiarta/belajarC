@@ -1,4 +1,4 @@
-# belajarC
+![image](https://github.com/wayansudiarta/belajarC/assets/29176048/032d2595-e187-4fd0-bc38-b04ac73f6e2a)# belajarC
 Situs ini menampung file-file yang berguna dalam belajar **Bahasa Pemrograman C**.
 Khususnya untuk menunjang buku yang berjudul "Pemrograman C untuk penyelesaian kasus"
 oleh I Wayan Sudiarta dan Raja F. Akmaludin.
@@ -18,7 +18,8 @@ Walaupun Kami telah berusaha mengurangi kesalahan dengan berbagai cara, kesalaha
 3) Hal. 93, Pada kode: seharusnya float g[2][3] = {{0, 1.3, 2}, { 3.1, 4, 5.2}};  
 4) Hal. 96, Pada kode: seharusnya int g[2][3] = {{{1,2},{3,2}},{{3,4},{4,5}},{{5,6},{6,7}}};  
 5) Hal. 111, pada ilustrasi pointer pada gambar v menunjuk d, seharusnya v = &d
-6) Hal. 195- 
+6) Hal. 162 Vektor vdot(Vektor v1, Vektor v2) diganti dengan double vdot(Vektor v1, Vektor v2) 
+7) Hal. 195- 
    ada kesalahan ketik pada semua makro IDX:
 > #define IDX(i1,i2,n1,n2) ((i1)*(n2)+(i2))
    
